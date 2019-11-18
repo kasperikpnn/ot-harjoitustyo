@@ -1,0 +1,74 @@
+kasperik@melkki:~$ tree kurssit
+kurssit
++-- ot2019
+¦   +-- pom.xml
+¦   +-- src
+¦   ¦   +-- main
+¦   ¦   ¦   +-- java
+¦   ¦   ¦       +-- com
+¦   ¦   ¦           +-- mycompany
+¦   ¦   ¦               +-- unicafe
+¦   ¦   ¦                   +-- Kassapaate.java
+¦   ¦   ¦                   +-- Maksukortti.java
+¦   ¦   ¦                   +-- Paaohjelma.java
+¦   ¦   +-- test
+¦   ¦       +-- java
+¦   ¦           +-- com
+¦   ¦               +-- mycompany
+¦   ¦                   +-- unicafe
+¦   ¦                       +-- MaksukorttiTest.java
+¦   +-- target
+¦   ¦   +-- classes
+¦   ¦   ¦   +-- com
+¦   ¦   ¦       +-- mycompany
+¦   ¦   ¦           +-- unicafe
+¦   ¦   ¦               +-- Kassapaate.class
+¦   ¦   ¦               +-- Maksukortti.class
+¦   ¦   ¦               +-- Paaohjelma.class
+¦   ¦   +-- test-classes
+¦   ¦       +-- com
+¦   ¦           +-- mycompany
+¦   ¦               +-- unicafe
+¦   ¦                   +-- MaksukorttiTest.class
+¦   +-- viikko1
+¦       +-- Unicafe
+¦           +-- pom.xml
+¦           +-- src
+¦               +-- main
+¦               ¦   +-- java
+¦               ¦       +-- com
+¦               ¦           +-- mycompany
+¦               ¦               +-- unicafe
+¦               ¦                   +-- Kassapaate.java
+¦               ¦                   +-- Maksukortti.java
+¦               ¦                   +-- Paaohjelma.java
+¦               +-- test
+¦                   +-- java
+¦                       +-- com
+¦                           +-- mycompany
+¦                               +-- unicafe
+¦                                   +-- MaksukorttiTest.java
++-- _ot2019
+    +-- 1
+    +-- viikko
+    +-- viikko1
+        +-- Unicafe
+            +-- pom.xml
+            +-- src
+                +-- main
+                ¦   +-- java
+                ¦   ¦   +-- com
+                ¦   ¦       +-- mycompany
+                ¦   ¦           +-- unicafe
+                ¦   ¦               +-- Kassapaate.java
+                ¦   ¦               +-- Maksukortti.java
+                ¦   ¦               +-- Paaohjelma.java
+                ¦   +-- resources
+                +-- test
+                    +-- java
+                        +-- com
+                            +-- mycompany
+                                +-- unicafe
+                                    +-- MaksukorttiTest.java
+
+51 directories, 19 files
