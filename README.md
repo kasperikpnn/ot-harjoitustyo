@@ -1,6 +1,6 @@
 # Otsikko
 
-**Bold**
+**BOLD**
 
 *Italic*
 
